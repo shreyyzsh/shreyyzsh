@@ -1,7 +1,7 @@
 # Hello, World!
 I'm <b>Shreyy</b>, <br>
 just another <i>computer science</i> student who is busy exploring the fascinating world of tech!<br>
-<br>I know MERN stack, and I'm currently trying to be consistent with DSA.<br>My long-term interest is in Artificial Intelligence and Machine Learning.<br>
+<br>Currently, I know MERN stack, and I'm trying to be consistent with DSA.<br>My long-term interest is in Artificial Intelligence and Machine Learning.<br>
 
 ### 🌐 My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrcs10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shreyy0fvcks) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shreyyzsh)
