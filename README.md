@@ -14,7 +14,6 @@ just another <i>computer science</i> student who is busy exploring the fascinati
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyyzsh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
-![](https://nirzak-streak-stats.vercel.app/?user=shreyyzsh&theme=dark&hide_border=false)<br/> <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shreyyzsh&icon=0&color=0)](https://visitcount.itsvg.in)
