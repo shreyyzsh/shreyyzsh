@@ -22,4 +22,3 @@ Currently, I'm learning DSA and Math, with my ultimate goal being to become an A
 ### My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyyzsh&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=shreyyzsh&theme=monokai&hide_border=false)<br/>
