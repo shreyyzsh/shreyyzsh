@@ -1,5 +1,5 @@
 <h1 align="center">Hello! <em>I'm Shreyy</em> </h1>
-<h3 align="center">Just another computer science geek, fascinated by the world of tech and learning more about it every day.</h3>
+<h3 align="center">Just a curious CS geek building cool stuff and trying to level up every day.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreyyzsh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyyzsh" /> </p>
 <br>
 
