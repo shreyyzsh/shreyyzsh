@@ -6,14 +6,6 @@
 - 🛠️  I'm a proficient developer in C++, Python, Javascript, and Swift.
 - :seedling: A problem solver who can learn new concepts quickly to deal with any task at hand.
 - 🧑‍💻 Currently, I spend most of my time practicing DSA and doing Machine Learning.
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://x.com/shreyy0fvcks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyy0fvcks" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyyzsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyyzsh" height="30" width="40" /></a>
-<a href="https://medium.com/@shreyyzsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shreyyzsh" height="30" width="40" /></a>
-</p>
 
 ---
 
