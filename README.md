@@ -5,7 +5,7 @@
 
 - 🛠️  I'm a proficient developer in C++, Python, Javascript, and Swift.
 - :seedling: A problem solver who can learn new concepts quickly to deal with any task at hand.
-- 🧑‍💻 Currently, I spent most of my time practicing DSA or learning Machine Learning concepts.
+- 🧑‍💻 Currently, I spend most of my time practicing DSA and doing Machine Learning.
 <br>
 
 <h3 align="left">Connect with me:</h3>
