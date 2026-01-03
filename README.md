@@ -19,9 +19,11 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyyzsh&show_icons=true&locale=en" alt="shreyyzsh" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyyzsh&show_icons=true&locale=en&layout=compact" alt="shreyyzsh" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyyzsh&" alt="shreyyzsh" /></p>
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shreyyzsh&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shreyyzsh&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyyzsh&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
 
 
