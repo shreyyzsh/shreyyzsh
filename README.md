@@ -1,11 +1,11 @@
 <h1 align="center">Hello! <em>I'm Shreyy</em> </h1>
-<h3 align="center">Just a curious CS geek building cool stuff and trying to level up every day.</h3>
+<h3 align="center">Computer Science Engineer and a Machine Learning Enthusiast.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreyyzsh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyyzsh" /> </p>
 <br>
 
-- 🛠️  I'm a proficient developer in C++, Python, Javascript, and Swift.
-- :seedling: A problem solver who can learn new concepts quickly to deal with any task at hand.
-- 🧑‍💻 Currently, I spend most of my time practicing DSA and doing Machine Learning.
+- 🛠️  I know how to work with C++, Python and JavaScript along with some experience in Swift
+- :seedling: I'm good at problem solving, which helps me learn new concept and deal with different tech stacks.
+- 🧑‍💻 I'm currently focused on DSA, building projects that serve a purpose and exploring Machine Learning.
 
 ---
 
