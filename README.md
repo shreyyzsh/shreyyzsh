@@ -3,9 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreyyzsh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyyzsh" /> </p>
 <br>
 
-- 🛠️  I know how to work with C++, Python and JavaScript along with some experience in Swift
-- :seedling: I'm good at problem solving, which helps me learn new concept and deal with different tech stacks.
-- 🧑‍💻 I'm currently focused on DSA, building projects that serve a purpose and exploring Machine Learning.
+- I know how to work with C++, Python and JavaScript along with some experience in Swift
+- I'm good at problem solving, which helps me learn new concept and deal with different tech stacks.
+- I'm currently focused on DSA, building projects that serve a purpose and exploring Machine Learning.
 
 ---
 
