@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Shreyy 👋</h1>
-<h4 align="center"> a CSE student focused on ML and experimenting with different tech stacks.</h4>
+<h3 align="center"> a CSE student focused on ML and experimenting with different tech stacks.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreyyzsh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyyzsh" /> </p>
 
